@@ -1,4 +1,4 @@
-module fx_exercices {
+module fx_exercises {
 	requires javafx.controls;
 	requires javafx.graphics;
 	
